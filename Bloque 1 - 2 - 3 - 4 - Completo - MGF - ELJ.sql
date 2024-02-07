@@ -5808,3 +5808,7 @@ CREATE TABLE SITIOS_DEPORTIVOS (
     ID_SITIOS_DEPORTIVOS INT PRIMARY KEY,
     FID INT
 );
+
+create table ma(
+	id_m int
+);
